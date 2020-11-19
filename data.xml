@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channer>
+  <title>Web news</title>
+  <link>http://naver.com</link>
+  <date>2020 11월 20일</date>
+
+  <items>
+    <title>"'가짜 선물거래 사이트'로 천억 원대 매출 올린 일당 기소"</title>
+    <link><![CDATA[https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=102&oid=056&aid=0010937242]]></link>
+    <date>목요일 11월 19일</date>
+    <discription>
+      인터넷상에 가짜 선물거래 사이트를 만들고 천9백   억  원대 매출을 올린 일당이 재판에 넘겨졌습니다. 이들은 BJ를 이용해 피해자들에게 손해 보는 베팅을 하도록 해 불법으로 수익을 챙긴 혐의를 받고 있습니다
+    </discription>
+  </items>
+  <items>
+    <title>"화이자·바이오엔테크 “백신 면역 효과 95%…긴급 사용 신청"</title>
+    <link><![CDATA[https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=104&oid=056&aid=0010937241]]></link>
+    <date>목요일 11월 19일</date>
+    <discription>
+      미 제약업체 화이자와 독일 바이오엔테크가 공동 개발중인 백신의 면역 효과가 95%라는 최종 결과를 발표하며 미 당국에 곧 긴급사용을 신청할 계획이라고 밝혔습니다.
+    </discription>
+  </items>
+  <items>
+    <title>"내년 1월 기업용 클라우드 공개 카카오의 자신감"</title>
+    <link><![CDATA[https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=031&aid=0000569322]]></link>
+    <date>목요일 11월 19일</date>
+    <discription>
+      뒤늦게 기업용 클라우드 시장에 뛰어든 카카오가 그간 출시를 예고해온 클라우드 서비스를 내년 1월 선보인다.</discription>
+  </items>
+</channer>
