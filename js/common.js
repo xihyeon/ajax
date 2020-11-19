@@ -1,8 +1,8 @@
 $(function(){
-  $.ajax(){
-    url:'data.xml',
-    dataType:'xml',
-    success:function(data){
+  $.ajax({
+  url:'data.xml',
+  dataType:'xml',
+  success: function(){
       $("items",data).each(function(){
         $("dl").append('<dt><a href="'+$("link",this).text()+'">'+$("title",this).text()+'</a></dt><dd>"'+$("discription",this).text()+'"<dd>');
       });
